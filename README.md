@@ -21,5 +21,3 @@ This agent works with a real-world dataset related to **E-Commerce Sales**, whic
 - `International Sale Report.csv`
 - `Expense IIGF.csv`
 - etc.
-
-## 📁 Project Structure
